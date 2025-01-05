@@ -1,0 +1,10 @@
+@article{REPO385,
+    author = "Yao, Fanglong and Sun, Xian and Yu, Hongfeng and Zhang, Wenkai and Liang, Wei and Fu, Kun",
+    journal = "IEEE Transactions on Neural Networks and Learning Systems",
+    number = "1",
+    pages = "228--242",
+    publisher = "IEEE",
+    title = "{Mimicking the brain’s cognition of sarcasm from multidisciplines for Twitter sarcasm detection}",
+    volume = "34",
+    year = "2021"
+}
