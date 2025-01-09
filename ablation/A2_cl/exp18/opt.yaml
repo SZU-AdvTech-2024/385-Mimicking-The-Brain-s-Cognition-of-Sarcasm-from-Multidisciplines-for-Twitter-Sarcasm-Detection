@@ -1,0 +1,17 @@
+twt_data_dir: /home/p/Documents/Codes/pytorch-multimodal_sarcasm_detection_V2/text_data/
+img_data_dir: /home/p/Documents/Datasets/data-of-multimodal-sarcasm-detection/dataset_image/
+cap_data_dir: /home/p/Documents/Codes/pytorch-multimodal_sarcasm_detection/text_data/
+local_rank: -1
+project: runs/train
+name: exp
+train: train
+exist_ok: false
+epochs: 100
+lr: 0.0001
+temp: 0.4
+cl_weight: 0.1
+bce_weight: 0.9
+batch_size: 64
+world_size: 1
+global_rank: -1
+save_dir: /home/p/Documents/Codes/tweeter_sarcasm_detect/ablation/A2_cl/exp18

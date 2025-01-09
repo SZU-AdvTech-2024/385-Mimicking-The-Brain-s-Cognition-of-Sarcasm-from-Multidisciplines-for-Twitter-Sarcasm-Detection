@@ -1,0 +1,11 @@
+-------------------------------hyperparameters---------------------------
+lr: 0.001, batch-size: 64, 
+-------------------------------------------------------------------------
+**train** epoch 0, train_acc: 0.5555611626968107, train_loss: 214.83827209472656, test_acc: 0.6019095060190951, test_P: 0.0, test_R: 0.0, test_F1: 0.0
+**train** epoch 1, train_acc: 0.5616673395236172, train_loss: 211.7867431640625, test_acc: 0.6019095060190951, test_P: 0.0, test_R: 0.0, test_F1: 0.0
+**train** epoch 2, train_acc: 0.5614654824384336, train_loss: 212.0598602294922, test_acc: 0.6019095060190951, test_P: 0.0, test_R: 0.0, test_F1: 0.0
+**train** epoch 3, train_acc: 0.5638877674606378, train_loss: 212.52732849121094, test_acc: 0.6019095060190951, test_P: 0.0, test_R: 0.0, test_F1: 0.0
+**train** epoch 4, train_acc: 0.5636354461041583, train_loss: 212.41098022460938, test_acc: 0.6019095060190951, test_P: 0.0, test_R: 0.0, test_F1: 0.0
+**train** epoch 5, train_acc: 0.5632821962050868, train_loss: 212.35040283203125, test_acc: 0.6019095060190951, test_P: 0.0, test_R: 0.0, test_F1: 0.0
+**train** epoch 6, train_acc: 0.5638877674606378, train_loss: 212.4622802734375, test_acc: 0.6019095060190951, test_P: 0.0, test_R: 0.0, test_F1: 0.0
+**train** epoch 7, train_acc: 0.5638877674606378, train_loss: 212.40504455566406, test_acc: 0.6019095060190951, test_P: 0.0, test_R: 0.0, test_F1: 0.0

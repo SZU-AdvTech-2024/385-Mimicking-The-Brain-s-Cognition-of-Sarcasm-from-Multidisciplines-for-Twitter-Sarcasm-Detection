@@ -1,0 +1,8 @@
+-------------------------------hyperparameters---------------------------
+lr: 0.001, batch-size: 64, 
+-------------------------------------------------------------------------
+**train** epoch 0, train_acc: 0.5587404117884538, train_loss: 1721.4796142578125, test_acc: 0.6019095060190951, test_P: 0.0, test_R: 0.0, test_F1: 0.0
+**train** epoch 1, train_acc: 0.5638877674606378, train_loss: 1717.1046142578125, test_acc: 0.6019095060190951, test_P: 0.0, test_R: 0.0, test_F1: 0.0
+**train** epoch 2, train_acc: 0.5638877674606378, train_loss: 1717.095458984375, test_acc: 0.6019095060190951, test_P: 0.0, test_R: 0.0, test_F1: 0.0
+**train** epoch 3, train_acc: 0.5638877674606378, train_loss: 1716.991943359375, test_acc: 0.6019095060190951, test_P: 0.0, test_R: 0.0, test_F1: 0.0
+**train** epoch 4, train_acc: 0.5638877674606378, train_loss: 1717.0093994140625, test_acc: 0.6019095060190951, test_P: 0.0, test_R: 0.0, test_F1: 0.0

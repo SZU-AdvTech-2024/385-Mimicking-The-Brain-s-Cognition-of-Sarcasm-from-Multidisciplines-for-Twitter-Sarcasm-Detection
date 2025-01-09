@@ -1,0 +1,21 @@
+Screen Name and Script Parameters:
+t1: CUDA_VISIBLE_DEVICES=1 python train.py --lr 0.0001 --temp 0.1 --cl-weight 0.6 --bce-weight .4
+t2: CUDA_VISIBLE_DEVICES=2 python train.py --lr 0.0001 --temp 0.1 --cl-weight 0.6 --bce-weight 1.0
+t3: CUDA_VISIBLE_DEVICES=3 python train.py --lr 0.0001 --temp 0.1 --cl-weight 0.8 --bce-weight .2
+t4: CUDA_VISIBLE_DEVICES=0 python train.py --lr 0.0001 --temp 0.1 --cl-weight 0.8 --bce-weight 1.0
+t5: CUDA_VISIBLE_DEVICES=1 python train.py --lr 0.0001 --temp 0.2 --cl-weight 0.6 --bce-weight .4
+t6: CUDA_VISIBLE_DEVICES=2 python train.py --lr 0.0001 --temp 0.2 --cl-weight 0.6 --bce-weight 1.0
+t7: CUDA_VISIBLE_DEVICES=3 python train.py --lr 0.0001 --temp 0.2 --cl-weight 0.8 --bce-weight .2
+t8: CUDA_VISIBLE_DEVICES=0 python train.py --lr 0.0001 --temp 0.2 --cl-weight 0.8 --bce-weight 1.0
+t9: CUDA_VISIBLE_DEVICES=1 python train.py --lr 0.0001 --temp 0.4 --cl-weight 0.6 --bce-weight .4
+t10: CUDA_VISIBLE_DEVICES=2 python train.py --lr 0.0001 --temp 0.4 --cl-weight 0.6 --bce-weight 1.0
+t11: CUDA_VISIBLE_DEVICES=3 python train.py --lr 0.0001 --temp 0.4 --cl-weight 0.8 --bce-weight .2
+t12: CUDA_VISIBLE_DEVICES=0 python train.py --lr 0.0001 --temp 0.4 --cl-weight 0.8 --bce-weight 1.0
+t13: CUDA_VISIBLE_DEVICES=1 python train.py --lr 0.0001 --temp 0.6 --cl-weight 0.6 --bce-weight .4
+t14: CUDA_VISIBLE_DEVICES=2 python train.py --lr 0.0001 --temp 0.6 --cl-weight 0.6 --bce-weight 1.0
+t15: CUDA_VISIBLE_DEVICES=3 python train.py --lr 0.0001 --temp 0.6 --cl-weight 0.8 --bce-weight .2
+t16: CUDA_VISIBLE_DEVICES=0 python train.py --lr 0.0001 --temp 0.6 --cl-weight 0.8 --bce-weight 1.0
+t17: CUDA_VISIBLE_DEVICES=1 python train.py --lr 0.0001 --temp 0.8 --cl-weight 0.6 --bce-weight .4
+t18: CUDA_VISIBLE_DEVICES=2 python train.py --lr 0.0001 --temp 0.8 --cl-weight 0.6 --bce-weight 1.0
+t19: CUDA_VISIBLE_DEVICES=3 python train.py --lr 0.0001 --temp 0.8 --cl-weight 0.8 --bce-weight .2
+t20: CUDA_VISIBLE_DEVICES=0 python train.py --lr 0.0001 --temp 0.8 --cl-weight 0.8 --bce-weight 1.0
